@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0075/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部三
+  hash: sha256:f07461303fab15c789ad7c1df69e91ba77e3a1645c0ea5d385f94292466f69db
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0075_WYG_000-1a, image: WYG1106/WYG1106-0393a.png}
+body:
+  text: 廣陵集别集類二宋提要臣等謹案廣陵集三十一卷宋王令撰令元城人幼隨其叔祖乙居廣陵遂為廣陵人初字欽美後王萃字之曰逢原少不檢既而折節力學王安石以妻吳氏之妹妻之年二十八卒遺腹一女適吳師禮生子曰說其集即說所編凡詩賦十八卷文十二卷又拾遺一卷墓志事狀及交遊投贈追述之作皆附焉今才思竒軼所為詩磅礴奧衍大率以韓愈為宗而出入於盧同李賀孟郊之間雖得年不永未能鍛鍊以老其材或不免縱橫太過而視局促剽竊者流則固倜倜乎逺矣劉克莊後村詩話嘗稱其暑旱苦熱詩骨力老蒼識度髙逺又稱其富公并門人相答孫莘老聞雁諸篇古文如性說等篇亦自成一家之言王安石於人少許可而最重令同時勝流如劉敞等並推服之固非阿私所好矣其集久無刋本傳寫訛脫幾不可讀今於有考校者悉為釐正其必不可通者則姑仍舊本庶不失闕疑之意焉乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:3e0776856d4de3a0c43947728e2e6844aa17a5324973d66f5e9a61ad27019e97
+metadata:
+  title: 廣陵集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:53:06.062350'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0075/KR4d0075_000.txt
+hash: sha256:0a7ede87463a3f84f34fcc4e99851c5f6b7e0ff916b6a1bb0498fb70d9d6aaf7
